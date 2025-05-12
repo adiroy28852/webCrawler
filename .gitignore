@@ -1,0 +1,27 @@
+# Go build artifacts
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Go modules cache (if you ever use vendoring)
+vendor/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Dependency artifacts
+go.sum
+
+# helper files that i read
+docs/
