@@ -23,5 +23,5 @@ vendor/
 # Dependency artifacts
 go.sum
 
-# helper files that i read
+# files where i wrote what i thought. might release later. 
 docs/
